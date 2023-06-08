@@ -3,6 +3,7 @@ class Solution
 public:
     vector<vector<int>> permute(vector<int> &nums)
     {
+        // jai ganesh
         int n = nums.size();
         vector<vector<int>> ans;
         ans.push_back(nums);
