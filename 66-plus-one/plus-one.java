@@ -14,7 +14,7 @@ class Solution {
             digits[i]=0;
             
         }
-        //------> below code is for the case when there is only single element in the array.
+        //------> below code is for the case when there is only single element in the array
         int[] newNumber=new int[n+1];
         newNumber[0]=1;
         return newNumber;
